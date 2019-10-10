@@ -2,15 +2,16 @@
 Lg的个人博客
 </h2>
 
-<h4 align="center">记录精彩的程序人生</h4>
-<p align="center"><a title="Lg的个人博客" target="_blank" href="https://github.com/liguo001/solo-blog"><img src="https://img.shields.io/github/last-commit/liguo001/solo-blog.svg?style=flat-square&color=FF9900"></a>
-<a title="GitHub repo size in bytes" target="_blank" href="https://github.com/liguo001/solo-blog"><img src="https://img.shields.io/github/repo-size/liguo001/solo-blog.svg?style=flat-square"></a>
+<h4 align="center">生于忧患,死于安乐</h4>
+<p align="center"><a title="Lg的个人博客" target="_blank" href="https://github.com/JG-King/solo-blog"><img src="https://img.shields.io/github/last-commit/JG-King/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<a title="GitHub repo size in bytes" target="_blank" href="https://github.com/JG-King/solo-blog"><img src="https://img.shields.io/github/repo-size/JG-King/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.4-f1e05a.svg?style=flat-square&color=blueviolet"></a>
-<a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/liguo001/solo-blog.svg"></a></p>
+<a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/JG-King/solo-blog.svg"></a></p>
 
 ### 最新
 
-* [这是我的第一篇文章](https://www.lgblog.top/articles/2019/10/08/1570503866398.html)
+* [出生19天记录](https://www.lgblog.top/articles/2019/10/09/1570628115794.html)
+* [centos6.9服务器调用第三方接口缓慢问题排查](https://www.lgblog.top/articles/2019/10/09/1570603874533.html)
 
 
 
