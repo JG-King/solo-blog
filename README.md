@@ -10,6 +10,8 @@ Lg的个人博客
 
 ### 最新
 
+* [心情不好！](https://www.lgblog.top/articles/2019/10/11/1570755778024.html)
+* [待学习](https://www.lgblog.top/articles/2019/10/10/1570695856305.html)
 * [出生19天记录](https://www.lgblog.top/articles/2019/10/09/1570628115794.html)
 * [centos6.9服务器调用第三方接口缓慢问题排查](https://www.lgblog.top/articles/2019/10/09/1570603874533.html)
 
