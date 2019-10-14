@@ -10,6 +10,7 @@ Lg的个人博客
 
 ### 最新
 
+* [出生23天记录](https://www.lgblog.top/articles/2019/10/13/1570944778636.html)
 * [心情不好！](https://www.lgblog.top/articles/2019/10/11/1570755778024.html)
 * [待学习](https://www.lgblog.top/articles/2019/10/10/1570695856305.html)
 * [出生19天记录](https://www.lgblog.top/articles/2019/10/09/1570628115794.html)
