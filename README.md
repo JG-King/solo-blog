@@ -10,6 +10,7 @@ Lg的个人博客
 
 ### 最新
 
+* [《12 | 多线程之锁优化(上):深入了解Synchronized同步锁的优化方法》笔记](https://www.lgblog.top/articles/2019/11/21/1574345337053.html)
 * [《10:网络通信优化之通信协议：如何优化RPC网络通信》笔记](https://www.lgblog.top/articles/2019/11/20/1574248934111.html)
 * [fastjson只序列化需要的属性](https://www.lgblog.top/articles/2019/10/30/1572434569879.html)
 * [出生23天记录](https://www.lgblog.top/articles/2019/10/13/1570944778636.html)
