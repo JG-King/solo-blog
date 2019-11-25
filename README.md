@@ -10,6 +10,7 @@ Lg的个人博客
 
 ### 最新
 
+* [《14 | 多线程之锁优化(下):使用乐观锁优化并行操作》笔记](https://www.lgblog.top/articles/2019/11/24/1574603484733.html)
 * [《13 | 多线程之锁优化(中):深入了解Lock同步锁的优化方法》笔记](https://www.lgblog.top/articles/2019/11/23/1574438890762.html)
 * [《12 | 多线程之锁优化(上):深入了解Synchronized同步锁的优化方法》笔记](https://www.lgblog.top/articles/2019/11/21/1574345337053.html)
 * [《10:网络通信优化之通信协议：如何优化RPC网络通信》笔记](https://www.lgblog.top/articles/2019/11/20/1574248934111.html)
